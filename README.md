@@ -1,24 +1,116 @@
-<h1 align="center">Hi 👋, I'm Akshat Srivastava</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+# 🌈 Akshat Srivastava's Profile
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat-srivasta-va&label=Profile%20views&color=0e75b6&style=flat" alt="akshat-srivasta-va" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshat-srivasta-va" alt="akshat-srivasta-va" /></a> </p>
+## 👋 Introduction
 
-- 👨‍💻 All of my projects are available at [https://akshat-srivasta-va.github.io/Portfolio/](https://akshat-srivasta-va.github.io/Portfolio/)
-
-- 📫 How to reach me **srivastavaakshat52@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akshat srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat srivastava" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://akshat-srivasta-va.github.io/portfolio/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://akshat-srivasta-va.github.io/portfolio/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshatleet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshatleet" height="30" width="40" /></a>
+<h1 align="center" style="color: #4CAF50;">Hi 👋, I'm Akshat Srivastava</h1>
+<h3 align="center" style="color: #2196F3;">A passionate full stack developer from India</h3>
+<p align="center" style="font-size: 18px; color: #555;">
+  Welcome to my profile! I love creating dynamic and responsive web applications that provide seamless user experiences. 
+  With a strong foundation in both frontend and backend technologies, I am dedicated to continuous learning and improvement.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akshat-srivasta-va&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat-srivasta-va&show_icons=true&locale=en&layout=compact" alt="akshat-srivasta-va" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat-srivasta-va&show_icons=true&locale=en" alt="akshat-srivasta-va" /></p>
+---
+
+## 🌐 Important Links
+
+- 🔗 **Portfolio**: [Click Here](https://akshat-srivasta-va.github.io/Portfolio/)
+- 💡 **GitHub**: [github.com/akshat-srivasta-va](https://github.com/akshat-srivasta-va)
+- 🔍 **LeetCode**: [leetcode.com/akshatleet](https://leetcode.com/akshatleet)
+- 📘 **GeeksforGeeks**: [gfg profile](https://www.geeksforgeeks.org/user/26cskcdpu/)
+- 🍜 **CodeChef**: [codechef.com/users/akshat-srivasta-va](https://www.codechef.com/users/akshat-srivasta-va)
+
+- 
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Currently working on **full-stack web projects using MERN Stack**
+- 🧠 Sharpening skills in **Data Structures & Algorithms**
+- 🌱 Exploring **Next.js**, **TypeScript**, and **System Design**
+- 💡 Passionate about building **user-focused, scalable, and clean applications**
+- 📚 Enjoy solving problems on **LeetCode, CodeChef, and GeeksforGeeks**
+
+---
+
+## 💼 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap" />
+</p>
+
+### 🛠 Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
+  <img src="https://img.shields.io/badge/Render-673AB7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshat-srivasta-va&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshat-srivasta-va&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat-srivasta-va&layout=compact&theme=radical" height="150" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:srivastavaakshat52@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akshat-srivastava"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+## 🧠 Motto
+
+> "Code with purpose. Learn with passion. Build with impact."
+
+---
+
+## 🌟 Hobbies & Interests
+
+- 🎨 **Art & Design**: Passionate about digital art and graphic design.
+- 📖 **Reading**: Love reading tech blogs and science fiction novels.
+- 🌍 **Traveling**: Exploring new cultures and cuisines.
+
+---
+
+⭐️ _Thanks for visiting my profile! Let's connect and build something amazing together!_
